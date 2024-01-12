@@ -6,12 +6,14 @@ My name is Ing Kea Meng, currently a sophomore student in Software Development.
 Web Development 💻
 Python Programming 🐍
 
+
 📚 What I'm Learning
 Right now I'm learning:
 Web Development 
 Python Programming
 UI/UX
 JAVA
+
 
 📫 Get in Touch
 If you'd like to collaborate on a project or just say hi, feel free to connect with me:
