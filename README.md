@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 
-My name is Ing Kea Meng, currently a sophomore student in Software Development. 
+My name is Ing Kea Meng, currently a junior student in Software Development. 
 
 
 ✨ My Interests
@@ -23,9 +23,6 @@ Web Development
 
 
 Python Programming
-
-
-JAVA
 
 
 📫 Get in Touch
