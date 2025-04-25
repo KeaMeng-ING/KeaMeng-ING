@@ -20,7 +20,7 @@ Hello, my name is Ing Kea Meng and I am a Junior student at [American University
 - 💬 Brainstorm with me over tech, UI/UX, career, and gaming 
 - 📫 How to reach me: keameng9@gmail.com
 - 😄 Pronouns: Programmer/He/His/Him
-- 📝 [Resume](https://keameng-ing.github.io/KeaMengCV/KeaMengResume.pdf)
+- 📝 [My CV](https://keameng-ing.github.io/KeaMengCV/KeaMengResume.pdf)
 
 **Languages and Tools:** 
 
