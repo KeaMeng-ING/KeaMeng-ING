@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Ing Kea Meng and I am a Junior student at [American University of Phnom Penh](https://www.aupp.edu.kh/) majoring in Software Development. I am a full-stack software developer with one year of experience working on various projects. My technology stack involves HTML/CSS TailwindCSS Javascript ReactJS NodeJS Python PostgreSQL mySQL Git. Besides programming, I have an immense interest in gaming.
+Hello, my name is Ing Kea Meng and I am a Junior student at [American University of Phnom Penh](https://www.aupp.edu.kh/) majoring in Software Development. I am a full-stack software developer with one year of experience working on various projects. My technology stack involves HTML/CSS TailwindCSS Javascript ReactJS NextJS NodeJS Python PostgreSQL mySQL Git. Besides programming, I have an immense interest in gaming.
 
 - 💬 Brainstorm with me over tech, UI/UX, career, and gaming 
 - 📫 How to reach me: keameng9@gmail.com
 - 😄 Pronouns: Programmer/He/His/Him
-- 💼 My Portfolio: [Portfolio](https://keameng-portfolio.vercel.app)
+- 💼 My Portfolio: [Portfolio](https://www.keameng.me/)
 - 📝 My CV: [KeaMeng's CV](https://keameng-ing.github.io/KeaMengCV/KeaMengResume.pdf)
 
 **Languages and Tools:** 
