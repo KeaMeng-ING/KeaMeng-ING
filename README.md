@@ -15,36 +15,44 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Ing Kea Meng and I am a Junior student at [American University of Phnom Penh](https://www.aupp.edu.kh/) majoring in Software Development. I am a full-stack software developer with one year of experience working on various projects. My technology stack involves HTML/CSS TailwindCSS Javascript ReactJS NextJS NodeJS Python PostgreSQL mySQL Git. Besides programming, I have an immense interest in gaming.
+### Hi, I'm Kea Meng 👋
 
-- 💬 Brainstorm with me over tech, UI/UX, career, and gaming 
-- 📫 How to reach me: keameng9@gmail.com
-- 😄 Pronouns: Programmer/He/His/Him
-- 💼 My Portfolio: [Portfolio](https://www.keameng.me/)
-- 📝 My CV: [KeaMeng's CV](https://keameng-ing.github.io/KeaMengCV/KeaMengResume.pdf)
+I'm a **Full-Stack Developer** based in Phnom Penh, Cambodia — graduating from the American University of Phnom Penh (Software Development, GPA 3.73). I build production-grade web applications with a focus on **Next.js**, **NestJS**, and **TypeScript**.
 
-**Languages and Tools:** 
+Currently freelancing and co-founding [ShopiLink](https://inventory.api.shopilinkcambodia.com) — a multi-branch inventory & order management platform built for Cambodian SMEs.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+---
+
+**What I've shipped:**
+- 🏍️ **Soursdey Bike Tour** — Full-stack tour booking platform (Next.js + Supabase + Prisma + PayPal) for a real client.
+- 🛒 **ShopiLink** — Multi-branch inventory system with RBAC, Docker, Nginx, and GitHub Actions CI/CD
+- 🏛️ **MPTC Provincial Site Rebuild** — Rebuilt a government site to Next.js: +65% speed, –50% TTFB, +40% SEO
+
+**Awards:** Emerging Innovation Award (Nov 2025) · Unipreneur Top 8 (Oct 2025) · Y2B Hackathon 2nd Runner Up (Nov 2024)
+
+---
+
+- 💼 Portfolio: [keameng-ing.com](https://www.keameng-ing.com/)
+- 📫 Reach me: keameng9@gmail.com
+- 📍 Phnom Penh, Cambodia
+
+---
+
+**Stack:**
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-
 
 ![KeaMeng-ING's Stats](https://github-readme-stats.vercel.app/api?username=KeaMeng-ING&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![KeaMeng-ING's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeaMeng-ING&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![KeaMeng-ING's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KeaMeng-ING&theme=vue-dark&hide_border=true)
-
