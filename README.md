@@ -72,11 +72,6 @@ Rebuilt a provincial government website from WordPress to Next.js during my inte
 ## GitHub activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KeaMeng-ING&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Kea Meng's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeaMeng-ING&theme=vue-dark&hide_border=true&layout=compact" alt="Kea Meng's most-used languages" />
-</p>
-
-<p>
   <img src="https://streak-stats.demolab.com/?user=KeaMeng-ING&theme=vue-dark&hide_border=true" alt="Kea Meng's GitHub streak" />
 </p>
 
