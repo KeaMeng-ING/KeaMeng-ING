@@ -78,9 +78,9 @@ Rebuilt a provincial government website from WordPress to Next.js during my inte
 ## Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeaMeng-ING/new-portfolio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeaMeng-ING/new-portfolio/output/github-contribution-grid-snake.svg" />
-  <img alt="Kea Meng's contribution snake" src="https://raw.githubusercontent.com/KeaMeng-ING/new-portfolio/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeaMeng-ING/KeaMeng-ING/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeaMeng-ING/KeaMeng-ING/output/github-contribution-grid-snake.svg" />
+  <img alt="Kea Meng's contribution snake" src="https://raw.githubusercontent.com/KeaMeng-ING/KeaMeng-ING/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## Let's connect
