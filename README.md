@@ -10,6 +10,13 @@
   <a href="mailto:keameng9@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <a href="https://www.keameng-ing.com/"><img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio live" /></a>
+  <a href="https://www.linkedin.com/in/kea-meng-ing/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:keameng9@gmail.com"><img src="https://img.shields.io/badge/Available_for-Opportunities-16A34A?style=flat-square&logo=gmail&logoColor=white" alt="Available for opportunities" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KeaMeng-ING&style=flat-square&color=7C3AED&label=Profile+views" alt="Kea Meng's profile views" />
+</p>
+
 I turn ideas and business workflows into production-ready digital products, from product discovery and interface development to backend architecture, databases, and deployment. My core stack is **Next.js**, **NestJS**, **TypeScript**, and **PostgreSQL**, supported by Docker, Nginx, and CI/CD.
 
 I'm completing my Software Development degree at the **American University of Phnom Penh** with a **3.73 GPA**. I currently freelance, co-founded **ShopiLink**, and am open to freelance projects, collaborations, and full-time opportunities worldwide.
@@ -70,8 +77,16 @@ Rebuilt a provincial government website from WordPress to Next.js during my inte
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeaMeng-ING&theme=vue-dark&hide_border=true" alt="Kea Meng's GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=KeaMeng-ING&theme=vue-dark&hide_border=true" alt="Kea Meng's GitHub streak" />
 </p>
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeaMeng-ING/new-portfolio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeaMeng-ING/new-portfolio/output/github-contribution-grid-snake.svg" />
+  <img alt="Kea Meng's contribution snake" src="https://raw.githubusercontent.com/KeaMeng-ING/new-portfolio/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Let's connect
 
